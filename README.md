@@ -1,4 +1,4 @@
-### Projeto Backend LAMA (Labenu Music Awards)
+### Backend do Projeto Ambulnz (Pizzaria Delivery)
 
 ##### `Autor:` Márleo Piber da Rosa
 ##### `Turma:` Alves
@@ -13,7 +13,7 @@
 6. Cancelar reserva de show;
 
 ####**`Documentação da API:`**
-https://documenter.getpostman.com/view/21555670/2s83tGoC3v
+
 
 #### `Tecnologias utilizadas`
 <div>
