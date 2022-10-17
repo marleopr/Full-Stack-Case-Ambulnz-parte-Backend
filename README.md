@@ -1,4 +1,4 @@
-### Frontend do Projeto Ambulnz (Pizzaria Delivery)
+### Backend do Projeto Ambulnz (Pizzaria Delivery)
 
 ##### `Autor:` Márleo Piber da Rosa
 ##### `Turma:` Alves
@@ -11,9 +11,6 @@
 
 #### `API na AWS:`
 http://ec2-3-88-84-198.compute-1.amazonaws.com:3003/api/
-
-#### `Frontend na AWS:`
-http://ec2-3-88-84-198.compute-1.amazonaws.com:3000/
 
 #### `Tecnologias utilizadas`
 <div>
