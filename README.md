@@ -9,6 +9,9 @@
 2. Create Order;
 3. Get Orders;
 
+#### `API na AWS:`
+http://ec2-3-88-84-198.compute-1.amazonaws.com:3003/api/
+
 #### `Tecnologias utilizadas`
 <div>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
