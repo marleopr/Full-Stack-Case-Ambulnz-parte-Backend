@@ -5,15 +5,9 @@
 
 ####**`Endpoints implementados:`**
 
-1. Criar usuário;
-2. Login;
-3. Criar show;
-4. Buscar todos os shows;
-5. Reservar ticket de show;
-6. Cancelar reserva de show;
-
-####**`Documentação da API:`**
-
+1. Get pizzas;
+2. Create Order;
+3. Get Orders;
 
 #### `Tecnologias utilizadas`
 <div>
@@ -26,3 +20,4 @@
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
